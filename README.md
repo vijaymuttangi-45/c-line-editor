@@ -86,3 +86,15 @@ Refer to [HELP.md](HELP.md) for command syntax and examples.
 ## Repository
 
 https://github.com/vijaymuttangi-45/c-line-editor
+
+## Team Members
+
+This project was completed as part of Activity 7 – Build a Simple Line Editor in C.
+
+1. **Vijay Muttangi**
+2. **Sharanbasappa**
+3. **Vinayak Pattar**
+
+## Team Collaboration
+
+The team worked on the Simple Line Editor in C as part of the Portfolio Building studio activity. The project includes the C source code, command documentation, and instructions for compiling and running the program.
